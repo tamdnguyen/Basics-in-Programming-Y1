@@ -1,0 +1,9 @@
+A,0.1
+C zero
+E 300
+B3 5600
+B2 110
+D unknown
+
+B1 270
+K 1.64 ug
