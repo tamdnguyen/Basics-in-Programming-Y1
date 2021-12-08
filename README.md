@@ -12,13 +12,13 @@ _Note: Round 1 is excluded here so there is link to it._
 |Round|Topic|
 |:-----:|:-----|
 |[Round 2](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/round%202)|Control statements: conditions and loops|
-|[Round 3](Basics-in-Programming-Y1/round%203)|More about control statements|
-|[Round 4](Basics-in-Programming-Y1/round 4)|Functions|
-|[Round 5](Basics-in-Programming-Y1/round 5)|Lists|
-|[Round 6](Basics-in-Programming-Y1/round 6)|More about lists, strings and dictionaries|
-|[Round 7](Basics-in-Programming-Y1/round 7)|Exceptions and processing files|
-|[Round 8](Basics-in-Programming-Y1/round 8)|More file processing|
-|[Round 9](Basics-in-Programming-Y1/round 9)|Classes and objects|
-|[Mock exam](Basics-in-Programming-Y1/practice exam/)|Solution to the mock test|
+|[Round 3](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/round%203)|More about control statements|
+|[Round 4](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/round%204)|Functions|
+|[Round 5](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/round%205)|Lists|
+|[Round 6](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/round%206)|More about lists, strings and dictionaries|
+|[Round 7](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/round%207)|Exceptions and processing files|
+|[Round 8](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/round%208)|More file processing|
+|[Round 9](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/round%209)|Classes and objects|
+|[Mock exam](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/practice%20exam)|Solution to the mock test|
 
 
