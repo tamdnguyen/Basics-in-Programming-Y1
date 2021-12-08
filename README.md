@@ -11,7 +11,7 @@ _Note: Round 1 is excluded here so there is link to it._
 
 |Round|Topic|
 |:-----:|:-----|
-|[Round 2](Basics-in-Programming-Y1/round 2)|Control statements: conditions and loops|
+|[Round 2](https://github.com/tamdnguyen/Basics-in-Programming-Y1/tree/main/round%202)|Control statements: conditions and loops|
 |[Round 3](Basics-in-Programming-Y1/round 3)|More about control statements|
 |[Round 4](Basics-in-Programming-Y1/round 4)|Functions|
 |[Round 5](Basics-in-Programming-Y1/round 5)|Lists|
