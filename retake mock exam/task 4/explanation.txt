@@ -1,0 +1,55 @@
+Question 1:
+    The calculate-function is used to calculate the result of a number divided by 2. Any number is given to the function,
+    it will return the result of that number divided by 2 to another part of the program which asks it to do so.
+
+    The whole program will print the number 10. The function to print to number 10 is the function main(). In the function
+    main, the user give a number 20 and calculate the result using the calculate() function with that number.
+    As explained above, the calculate function returns the result of 20 divided by 2 which is 10. The user then print the
+    result of whole sequence above, which is 10 here. That's why the program will print 10.
+
+Question 2:
+    The last line in function change() is unnecessary (line 6: return numbers). It is because before that, in line 5, the
+    function already return a value named "number". The program will perform and function, return the value "number" and
+    stop right there. Therefore, the line 6 will never be executed.
+
+    The program prints 1 first because in the main program, the variable "chiffre" is initialize as 1. The first print()
+    function in main function is to print the value of variable "chiffre", and the value of "chiffre" is not changed before
+    the print() function is called.
+
+    The function change() changes the value in the list. Therefore, at first, list1 = [10,8,6]; after the change() function
+    executed, it will change the values in list1 into [2,8,6] because the change() function turns the first element into
+    the value of (second element - third element). The next things printed are the items in list1. Therefore,
+    the numbers which will be printed are 2, 8, 6, in that order.
+
+Question 3:
+    The how_many() function still ends because when the user input "y", the code part inside the if block "if question == "y":"
+    will be execute. When it is executed, the function will return value of i and stop immediately. The loop will be exited
+    and the function will end.
+
+    If we add else block, we cannot include return command. If we do so, the function will always return something and
+    exit and stop.
+
+Question 4:
+    range-command: range(a,b,c)
+    The range-command is used to create an arithmetic sequence from a (include a) to the number before b (NOT include b)
+    with the step c (step c mean that the sequence will be: a, a+c, a+2c,...)
+    In the given code, range-command will create this sequence: 1,3,5,7,9
+
+    The given code:
+
+                def counter():
+
+                    for item in range(1,11,2):
+                        print("round", item)
+
+    Alternative code without range-command
+
+                def counter():
+                    i = 1
+                    while i < 11:
+                        print("round", i)
+                        i += 2
+
+
+
+
